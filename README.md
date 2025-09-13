@@ -17,7 +17,7 @@
 
 - 🌱 Currently pursuing **B.Tech in Computer Science at JIET, Rajasthan (2022–2026)**  
 - 💻 Former Intern at **Celebal Technology** (React Developer) & **Bluestock Fintech** (Software Developer)  
-- 🔭 Worked on projects: [Virtual Assistant](https://github.com/Premkumar1002/Virtual-Assistant), [E-Commerce Website](https://github.com/Premkumar1002/E-Commerce-Website), [Blogging App](https://github.com/Premkumar1002/Blogging-app)  
+- 🔭 Worked on projects: [Food delivery app](https://github.com/Premkumar1002/Food-delivery-app), [Virtual Assistant](https://github.com/Premkumar1002/Virtual-Assistant), [E-Commerce Website](https://github.com/Premkumar1002/E-Commerce-Website)
 - 💬 Ask me about **React, MERN Stack, Java, JavaScript, SQL**  
 - 📫 Reach me at **premkumar703322@gmail.com**  
 - ⚡ Fun fact: **I love solving DSA problems (150+ on LeetCode)**  
