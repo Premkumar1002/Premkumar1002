@@ -1,102 +1,84 @@
-<div align="center">
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Prem Kumar</h1>
+<h3 align="center">A passionate MERN Stack Developer & Computer Science Student</h3>
 
-# 🌟 Welcome to Prem kumar's Profile 🌟
+<p>  
+  <img align="right" src="code.gif" alt="coding" width="400" height="400" /> 
+</p> 
 
-<p><em>Mern stack developer </em></p>
-
-<img src="https://img.shields.io/badge/Status-Available_for_collaboration-brightgreen" alt="Status" />
-<img src="https://img.shields.io/badge/Focus-Web_Development-blue" alt="Focus" />
-
-</div>
-
-<hr>
-
-## 🔭 I'm currently working on
-
-<div align="center"><p>working on na new open source project</p></div>
-
-## 👀 Visitor Count
-
-<!-- ⚠️ Important: Replace 'Premkumar1002' with your actual GitHub username in the URL below -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Premkumar1002/count.svg" />
-  <br>Thank you for visiting my profile! Come back soon!
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Premkumar1002&label=Profile%20views&color=0e75b6&style=flat" alt="Premkumar1002" /> 
 </p>
 
-## 🏆 GitHub Trophies
-
-<!-- ⚠️ Important: Replace 'Premkumar1002' with your actual GitHub username in the URL below -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Premkumar1002&theme=juicyfresh&column=7&margin-w=15&margin-h=15" />
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Premkumar1002&theme=dracula&no-frame=true&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  </a> 
 </p>
 
-## 📊 GitHub Stats
+- 🌱 Currently pursuing **B.Tech in Computer Science at JIET, Rajasthan (2022–2026)**  
+- 💻 Former Intern at **Celebal Technology** (React Developer) & **Bluestock Fintech** (Software Developer)  
+- 🔭 Worked on projects: [Virtual Assistant](https://github.com/Premkumar1002/Virtual-Assistant), [E-Commerce Website](https://github.com/Premkumar1002/E-Commerce-Website), [Blogging App](https://github.com/Premkumar1002/Blogging-app)  
+- 💬 Ask me about **React, MERN Stack, Java, JavaScript, SQL**  
+- 📫 Reach me at **premkumar703322@gmail.com**  
+- ⚡ Fun fact: **I love solving DSA problems (150+ on LeetCode)**  
 
-<!-- ⚠️ Important: Replace 'Premkumar1002' with your actual GitHub username in the URL below -->
+---
+
+### 👯 Communities
+- Technical Club Coordinator at JIET  
+- Active on HackerRank & LeetCode  
+
+---
+
+### ⚡ Technologies
+- **Frontend**: React.js, JavaScript, HTML, CSS, TailwindCSS, Redux  
+- **Backend**: Node.js, Express.js, MongoDB, MySQL, REST APIs, JWT  
+- **Programming**: Java, JavaScript, SQL  
+- **Tools**: Git, GitHub, Postman, VS Code  
+
+---
+
+### 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Premkumar1002&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-</div>
-
-## 🔝 Most Used Languages
-
-<!-- ⚠️ Important: Replace 'Premkumar1002' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premkumar1002&layout=compact&langs_count=10&theme=radical"/>
-</div>
-
-## 🔥 Contribution Streak
-
-<!-- ⚠️ Important: Replace 'Premkumar1002' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Premkumar1002&theme=radical&hide_border=false" />
-</div>
-
-## 💻 Tech Stack
-
-<div align="center">
-
-### 🎨 Frontend
-
-<img src="https://img.shields.io/badge/-React-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-HTML5-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-CSS3-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-Tailwind-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-Material UI-05122A?style=for-the-badge&color=ff69b4">
-
-### ⚙️ Backend
-
-<img src="https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-Express-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&color=4169e1">
-
-### 🚀 DevOps
-
-<img src="https://img.shields.io/badge/-GitHub Actions-05122A?style=for-the-badge&color=9370db">
-
-### 💬 Languages
-
-<img src="https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-Java-05122A?style=for-the-badge&color=FFA500">
-
-</div>
-
-## 🌐 Socials
-
-<div align="center">
-
-<a href="https://github.com/Premkumar1002"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=9a6bdf"></a> <a href="https://www.linkedin.com/in/prem-kumar-2a290524b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=df6b9a"></a> 
-
-</div>
-
-## 📫 How to reach me
-
-<div align="center">
-
-**Email:** premkumar703322@gmail.com
-**Phone:** +91 7366871980
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Premkumar1002&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Premkumar1002&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
 
-<!-- ⚠️ Important: Replace 'Premkumar1002' with your actual GitHub username in the URLs below -->
-<img src="https://komarev.com/ghpvc/?username=Premkumar1002&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premkumar1002&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
 
-<img src="https://img.shields.io/github/followers/Premkumar1002?style=for-the-badge&color=ff69b4" alt="Followers"/>
+---
 
-<p>🌈 <i>Let's connect and build amazing things together!</i> 🚀</p>
+### 🏆 Achievements
+- 🥇 Solved **150+ DSA problems on LeetCode**  
+- 🏅 Gold Medal – Skill Enhancement Program (Web Development)  
+- 🥈 Elite + Silver Medal – Skill Enhancement Program (Web Development)  
 
+---
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/prem-kumar-2a290524b">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:premkumar703322@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Premkumar1002">
+    <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Premkumar1002&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Feel+free+to+connect+with+me;Let's+build+something+amazing+together!" alt="Typing SVG" />
 </div>
